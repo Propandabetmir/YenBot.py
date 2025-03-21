@@ -1,3 +1,5 @@
+#değişiklik yaptım
+
 import asyncio
 
 import discord
